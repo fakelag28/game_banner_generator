@@ -1,6 +1,7 @@
 # game_banner_generator
 A small script with two simple functions for creating beautiful banners using a nice font and customizable elements.
-The code uses the imageio and PIL libraries to interact with images and gif animations.<br>
+The code uses the imageio and PIL libraries to interact with images and gif animations.
+The arturito.ttf font is also needed for correct operation, it was attached to the repository.<br>
 There are two resolutions of the generated images: Standard - 2560x600 | Discord banner - 1360x480
 
 ## Example of generated banner images:

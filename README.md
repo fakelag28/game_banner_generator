@@ -5,9 +5,9 @@ The arturito.ttf font is also needed for correct operation, it was attached to t
 There are two resolutions of the generated images: Standard - 2560x600 | Discord banner - 1360x480
 
 ## Example of generated banner images:
-<img src="https://github.com/fakelag28/game_banner_generator/blob/main/UHZLtuB.png?raw=true">
-<img src="https://github.com/fakelag28/game_banner_generator/blob/main/banner.gif?raw=true">
-<img src="https://github.com/fakelag28/game_banner_generator/blob/main/ugN0GMh.png?raw=true">
+<img src="https://github.com/fakelag28/game_banner_generator/blob/main/docs/UHZLtuB.png?raw=true">
+<img src="https://github.com/fakelag28/game_banner_generator/blob/main/docs/banner.gif?raw=true">
+<img src="https://github.com/fakelag28/game_banner_generator/blob/main/docs/ugN0GMh.png?raw=true">
 
 ## Input data for the function:
 nickname="fakelag28"<br>
@@ -19,4 +19,4 @@ show_position=True<br>
 show_discord=False
 
 ## Output image:
-<img src="https://github.com/fakelag28/game_banner_generator/blob/main/banner_2560x600.png?raw=true">
+<img src="https://github.com/fakelag28/game_banner_generator/blob/main/docs/banner_2560x600.png?raw=true">
